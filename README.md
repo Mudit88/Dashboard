@@ -35,16 +35,21 @@ A pie chart or stacked bar chart illustrates the sales contribution by different
 ### 8) Highest Selling Category
 This section highlights the highest-selling product category, helping Vrinda Store focus on popular products and optimize their inventory.
 
+## Task Carried Out
+### 1) Understanding the Business Case
+### 2) Data Cleaning
+
 ![image](https://github.com/Mudit88/Dashboard/assets/88089351/bbe85d23-fff2-40e3-8afb-871f1acd7a09)
 
+### 3) Data Processing
 
 ![image](https://github.com/Mudit88/Dashboard/assets/88089351/9f5a690b-39ab-4548-846f-626eb31d34da)
 
-
+### 4) Data Analysis (using pivot tables ) and Data Visualisation (using charts to show insights)
 
 ![image](https://github.com/Mudit88/Dashboard/assets/88089351/a4bcd59e-7b97-43d7-b78f-8079f21004fc)
 
-
+### 5) Creation of a dynamic and interactive dashboard
 
 ![image](https://github.com/Mudit88/Dashboard/assets/88089351/217d054f-5f3e-4f02-ae19-06910cee33b8)
 
