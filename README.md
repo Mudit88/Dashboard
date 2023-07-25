@@ -1,5 +1,8 @@
 # Dashboard - Vrinda Store Annual Sales Report 2022
 
+![image](https://github.com/Mudit88/Dashboard/assets/88089351/8911aa67-f129-43a0-9ab3-b4c01e53c8bc)
+
+
 ## Objective:
 Vrinda Store aims to create an annual sales report for the year 2022 to gain insights into customer behavior and strategize for increased sales in 2023.
 
