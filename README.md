@@ -51,6 +51,7 @@ This section highlights the highest-selling product category, helping Vrinda Sto
 
 ### 5) Creation of a dynamic and interactive dashboard
 
-![image](https://github.com/Mudit88/Dashboard/assets/88089351/217d054f-5f3e-4f02-ae19-06910cee33b8)
+![image](https://github.com/Mudit88/Dashboard/assets/88089351/57fd715c-c547-41cb-ae50-00361fab2edc)
+
 
 
